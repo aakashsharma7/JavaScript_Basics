@@ -1,0 +1,13 @@
+JavaScript -> Synchronous   //It is default JS behaviour
+           -> Single threaded "   "   "
+
+
+Execution Context -> execute one line of code at a time
+--> console.log -> 1
+--> console.log -> 2  ---> Call Stack or Memory Heap  //Each opr waits for the last one to complete before executing
+
+
+Blocking code --> block the flow of program --> read file sync
+Non-Blocking code --> does not block Execution --> read file Async
+
+after that ScreenShot attached in it.
